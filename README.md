@@ -29,7 +29,7 @@ yarn --version
 
 switch to the repo folder
 ```sh
-cd pengaduan-masyarakat
+cd lapor_app_laravel
 ```
 ### 3. Install Dependency
 ```sh
